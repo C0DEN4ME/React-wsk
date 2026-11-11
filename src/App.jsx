@@ -1,3 +1,4 @@
+// The starting point: everything on the page begins here.
 import './App.css';
 import Home from './components/Home';
 const App = () => {
